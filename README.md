@@ -10,4 +10,4 @@
 ## Usage
  1. run `gulp`
  2. Launch the dev server with `DEBUG=myapp:* npm start`
-
+ 3. Go to `http://localhost:3000/`
